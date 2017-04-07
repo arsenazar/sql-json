@@ -1,8 +1,8 @@
-var address = '35.185.40.217';
-var rootPwd = 'idontknow';
-var user = 'testing';
-var userPwd = '1234';
-var db = 'labrador';
+var address = 'SERVER_ADDR';
+var rootPwd = 'ROOT_PWD';
+var user = 'USER';
+var userPwd = 'USER_PASSWORD';
+var db = 'DB_NAME';
 
 var root = 'root';
 var instanceUrl = 'jdbc:mysql://' + address;
